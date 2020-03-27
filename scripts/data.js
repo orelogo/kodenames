@@ -1001,3 +1001,9 @@ var spanishData = [
 	"Sable",
 	"Sa"
 ];
+
+ukrainianEnglishData = [
+	"Glasses\nОкуляри",
+	"Pizza Піца",
+	"Violet - Фіолетовий"
+];
